@@ -5,13 +5,13 @@
 </div>
 
 <div id="badges" align="center>
-  <a href="your-linkedin-URL">
+  <a href="https://linkedin.com/in/ijimakin-samuel-04726963">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a>
+  <a href="https://twitter.com/thirdsamuel777">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a>
+  <a href="https://facebook.com/ijimakin.samuel.3">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
