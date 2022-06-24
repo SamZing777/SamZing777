@@ -39,7 +39,7 @@ I am a Web Developer and Software Engineer <img src="https://media.giphy.com/med
 
 - :seedling: Exploring Business Analytics.
 
-- :zap: In my free time, I solve problems, tutor young coders and tech articles.
+- :zap: In my free time, I solve problems, tutor young coders and discuss bright ideas and solutions.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
                                                                                                                            
